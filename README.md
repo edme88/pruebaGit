@@ -14,3 +14,7 @@ Sitio web desarrollado por:
 ## Links Útiles
 :sunglasses:
 [Link de Aula virtual](https://presencial.ucc.edu.ar/course/view.php?id=10671&section=1)
+
+## Nuevas Caracteristicas
+- Más items
+- Mejora del readme
